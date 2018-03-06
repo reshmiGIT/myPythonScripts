@@ -17,6 +17,6 @@ elif number%2==0 and  number > 20:
     print('Not Weird')
 else:
      sys.exit()
-    
+print('learing git')    
     
 
